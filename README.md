@@ -41,6 +41,7 @@ npm run build
 ```
 
 ## License
+MIT License
 ![screenshot](https://user-images.githubusercontent.com/113953006/230382455-a7053142-a8e3-44ea-b62d-ea38e7e8380f.png)
 
-MIT License
+
